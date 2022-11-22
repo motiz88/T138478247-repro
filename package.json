@@ -1,0 +1,8 @@
+{
+  "name": "@motiz88/t138478247-repro",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "metro": "^0.73.3"
+  }
+}

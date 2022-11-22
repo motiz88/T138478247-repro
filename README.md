@@ -3,7 +3,7 @@
 Minimal repro for a Metro bug.
 
 ```
-scripts/repro.sh
+$ scripts/repro.sh
 
 ### Setup (yarn, Metro)
 
